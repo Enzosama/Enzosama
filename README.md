@@ -1,6 +1,6 @@
 # Welcome to my github portfolio
 
-** Developer
+Developer/ Ai Engineeering
 
 
 
